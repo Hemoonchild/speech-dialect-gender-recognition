@@ -1,0 +1,4 @@
+- For dialect classification, the best validation model was 'SVM' with macro-F1=0.1397 and accuracy=0.2923.
+- For gender classification, the best validation model was 'SVM' with macro-F1=0.8838 and accuracy=0.8841.
+- Among silhouette-based unsupervised clustering models, the best dialect-aligned model was 'K-Means' with k=10, NMI Dialect=0.3848, ARI Dialect=0.1652, and Silhouette=0.1803.
+- When the number of clusters was fixed to the real number of dialects, the best model was 'GMM' with NMI Dialect=0.2926, ARI Dialect=0.1998, and Silhouette=0.1418.

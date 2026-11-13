@@ -1,0 +1,4 @@
+Model,Selection,k,Silhouette,ARI Dialect,NMI Dialect,ARI Gender,NMI Gender
+K-Means,Comparison using actual dialect count,5,0.1468,0.1664,0.2679,0.19,0.2101
+GMM,Comparison using actual dialect count,5,0.1418,0.1998,0.2926,0.1995,0.2766
+Hierarchical,Comparison using actual dialect count,5,0.1263,0.119,0.2343,0.2025,0.2474

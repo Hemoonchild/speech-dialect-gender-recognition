@@ -1,0 +1,5 @@
+task_type,task_name,selected_model,selection_basis,primary_score_name,primary_score_value,secondary_score_name,secondary_score_value
+Classification,dialect,SVM,Best validation macro-F1,f1_macro,0.13970588235294118,accuracy,0.2923076923076923
+Classification,gender,SVM,Best validation macro-F1,f1_macro,0.8838383838383839,accuracy,0.8840579710144928
+Clustering,Best unsupervised clustering,K-Means,Highest NMI with dialect labels among silhouette-based unsupervised models,NMI Dialect,0.3848,Silhouette,0.1803
+Clustering,Best clustering with actual dialect count,GMM,Highest NMI with dialect labels when k equals the true number of dialects,NMI Dialect,0.2926,Silhouette,0.1418

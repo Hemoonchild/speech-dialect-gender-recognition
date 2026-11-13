@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      Gilaki       0.17      0.30      0.21        20
+    Isfahani       0.00      0.00      0.00         0
+       Kordi       0.00      0.00      0.00        16
+    Mashhadi       0.00      0.00      0.00         9
+       Torki       0.00      0.00      0.00        20
+
+    accuracy                           0.09        65
+   macro avg       0.03      0.06      0.04        65
+weighted avg       0.05      0.09      0.07        65
