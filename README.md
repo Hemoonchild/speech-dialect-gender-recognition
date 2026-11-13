@@ -265,11 +265,6 @@ print("Predicted Genders:", predicted_gender[:5])
 - Dr. Mohammadreza A. Dehghani
 - Dr. Mostafa Tavassolipour
 
-**Teaching Assistants**:
-- Arash Taherifard
-- Amirhossein Aref
-- Hamidreza Taleai
-
 ---
 
 ## 📄 License
